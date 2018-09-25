@@ -1,4 +1,4 @@
-# Visual-Studio-2017-Update-problem
+# Visual-Studio-2017-Update-Problem
 This is a short description on how to handle an update problem on Visual Studio 2017. The problem arises when an update has to execute after the download is complete. An error message occurs: 
 Unable to install to target location. Error: The folder c:\program files (x86)\Microsoft Installer or a file within is locked by another program. Close anay program that might be using it and try again.
 To fix the problem do this:
